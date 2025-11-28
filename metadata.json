@@ -1,0 +1,5 @@
+{
+  "name": "NetGuard IDS",
+  "description": "An educational Network Intrusion Detection System (IDS) dashboard using Machine Learning concepts to detect DoS, ARP Spoofing, and Port Scanning attacks.",
+  "requestFramePermissions": []
+}
